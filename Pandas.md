@@ -1,6 +1,6 @@
 
 # Pandas
-
+http://online-ppt-education.gitee.io/online-ppt/show.html?file=https://cdn.jsdelivr.net/gh/konghayao/notuse/Pandas.md
 ---
 
 ## 相关库
@@ -78,9 +78,9 @@ df = pd.read_csv('./date.csv', dtype={
 }, parse_dates=['Date'])#parse_dates=['Date'] 用于时间类型转化
 ```
 
-但是上面这一种只适合部分情况，当遇到数字和字符串结合在一起的情况下定为 “int” 或 “float” 时，会导致报错。例如，数字格式和空格杂糅在一列时，会报错。
-
 ---
+
+但是上面这一种只适合部分情况，当遇到数字和字符串结合在一起的情况下定为 “int” 或 “float” 时，会导致报错。例如，数字格式和空格杂糅在一列时，会报错。
 
 这时候我们需要强制类型转化。
 
@@ -94,6 +94,8 @@ df = pd.read_csv('./date.csv', dtype={
 # 下面这一行将 data 列强制转化为数值型，若不能转化为数值型会转化为 NaN。
 df['data'] = df['data'].apply(pd.to_numeric, errors='coerce')
 ```
+
+---
 
 有些情况下，货币符号和数字结合在一起，需要通过文本处理去除。
 
