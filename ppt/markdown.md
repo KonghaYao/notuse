@@ -75,9 +75,10 @@ theme: white
 
 - - -
 
-<div class = 'cols-2'>
-
 #### 例子：
+
+<div class = 'cols'>
+
 
 <div>
 
@@ -110,7 +111,7 @@ theme: white
 
 #### 例子：
 
-<div class = 'cols-2'>
+<div class = 'cols'>
 <div>
 
 ##### 原来的文本
@@ -143,9 +144,9 @@ theme: white
 
 - - -
 
-<div class='cols-2'>
-
 #### 例子：
+<div class='cols'>
+
 
 <div>
 
@@ -178,7 +179,7 @@ theme: white
 ## 网页跳转 和 图片展示 
 
 
-<div class='cols-2'>
+<div class='cols'>
 <div>
 
 ###### 源代码
