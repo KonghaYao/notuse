@@ -28,7 +28,7 @@
 
 在编写的时候，由于排版原因，您可能需要在编写完成之后放置到我们的软件中进行查看，若不符合您的要求，则需要自己更改。
 
-[关于 Markdown 语法对应的详细渲染，请点击这里](./doc/markdown.md)
+[关于 Markdown 语法对应的详细渲染，请点击这里](./show.html?https://cdn.jsdelivr.net/gh/KonghaYao/notuse/ppt/markdown.md)
 
 - - -
 
