@@ -36,6 +36,8 @@
 - 可以直接进行展示的有 .md 后缀名的文件，但是若是这个文件中引入了本地的图片等多媒体文件，需要使用下面的方式引入
 - 若是您需要导入本地的图片，可以将 .md　文件连同您的图片一起压缩为 .zip 格式，我们的软件可以自动解析并还原您打包内的图片文件。
 
+- - -
+
 ![使用本地 zip 文件](https://cdn.jsdelivr.net/gh/KonghaYao/notuse/ppt/zipfile.png)
 
 - 若您拥有像 github 这样的代码仓库，可以直接使用 url 地址导入您的在线文件而不需要下载。
@@ -82,3 +84,12 @@
 #### 项目的创新
 
 - reveal.js 原本是直接 “翻译” Markdown 文本作为幻灯片页面，但是我们通过 Javascript 和 css 扩充了**排版结构和问题选项**，若是未来有可能，我们将会扩充更加多的方便的扩展功能。
+
+---
+
+### 项目开发者
+| [动中之动](https://www.gitee.com/dongzhongzhidong)           | [泽林白鹿](https://www.gitee.com/Lerror0)                    | [jabt](https://www.gitee.com/jabt)                           | [Cheeseb](https://www.gitee.com/Cheeseb)                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://portrait.gitee.com/uploads/avatars/user/1780/5342313_dongzhongzhidong_1604048676.png!avatar200) | ![](https://portrait.gitee.com/uploads/avatars/user/2744/8233054_Lerror0_1604047833.png!avatar200) | ![](https://portrait.gitee.com/uploads/avatars/user/2668/8004884_jabt_1599396827.png!avatar200) | ![](https://portrait.gitee.com/uploads/avatars/user/2753/8260480_Cheeseb_1604304552.png!avatar200) |
+
+
